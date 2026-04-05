@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: #8C5B3F;
+}
+
+header{
+    background-color:#efd7cf;
+    padding: 20px;
+    border: 3px solid #ddbaae;
+    nav ul{
+        display: flex;
+        gap: 20px;
+        
+    }
+ul li a{
+    text-decoration: none;
+    color: #8C5B3F;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: space evenly;
+
+}
+
+body {
+    background-color: #fffaf2;
+}
+#poesia{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #dcd4c1;
+}
+.estiloespecial{
+    color: #8C5B3F;
+    font-size: 30px;
+}
+;
+<style>
+div{
+    width: 300px;
+    margin: auto
+}
+</style>
+}
+footer{
+    background-color:#efd7cf;
+    padding: 10px;
+    border:  solid #ddbaae;
+    margin: 200px auto 0 auto;
+    font-size: small;
+
+    
+}
+#flowers{
+    margin: 20px;
+    border: 20px solid #ddbaae;
+    width: 300px;
+    height: auto;
+
+}
+.texto{
+    background-color: #efd7cf;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div class="intereses"{
+    background-color: #dcd4c1;
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    border: 3px solid #ddbaae;
+    justify-content: space between;
+}
+
+nav img{
+padding: 20px;
+}
+.estiloespecial{
+    margin: auto;
+    font-family: cursive;
+    justify-content: baseline;
+    font-size: 30px;
+}
+
