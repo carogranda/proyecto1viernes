@@ -69,6 +69,8 @@ footer{
     height: auto;
     padding: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+
 }
 div class="intereses"{
     background-color: #dcd4c1;
@@ -89,3 +91,44 @@ padding: 20px;
     font-size: 30px;
 }
 
+.boton{
+    width: 134px;
+    height: 37px;
+    border-radius: 30px;
+    background-color: #DE6A5F;
+    margin: 20px;
+    list-style: none;
+    color: white;
+    text-align: center;
+    
+    
+
+}
+
+.boton a{
+    color: white;
+    text-decoration: none;
+ 
+
+}
+
+.menu{
+    display: flex;
+
+}
+
+#fotoprincipal{
+    width: 50%;
+    height: auto;
+}
+
+.contenedor{
+    width: 70%;
+    display: flex;
+
+}
+
+p{
+    font-size: 1.2em;
+
+}
